@@ -6,7 +6,7 @@ My name is Natan Scalvence, I am 17 years old and I am a software engineer. Acti
 - Currently learning: Assembly (x86 systems).
 - Project I'm currently working on: FleakOS.
 
-Contatc:
+Contact:
 
 - Email: natanskern@protonmail.com
 - Telegram: @skb_hooker
