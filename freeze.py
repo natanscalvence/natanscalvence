@@ -10,6 +10,7 @@ def pagelist():
     for page in pages:
         print(f"making page for {page.path}")
         yield url_for('page', path=page.path)
-
+        
 if __name__ == "__main__":
-    freezer.freeze()
+    from warnings import simplefilter as filter_warnings
+    filter_warnings('ignore', 'flask_frozen.MissingURLGeneratorWarning')
